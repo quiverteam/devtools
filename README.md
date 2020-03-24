@@ -1,4 +1,4 @@
-#Quiver Developer Tools
+<h1>Quiver Developer Tools</h1>
 <p>Mod Create - A tool to create mods with Quiver Engine.</p>
 <p align="center">
   <img id="mainimage" src="https://github.com/TobyMaddix/Quiver-Mod-Setup/blob/master/docs/app.png">
