@@ -11,3 +11,7 @@
   <li>resource/gui/style.css - Themes (Dark mode, ect)</li>
   <li>resource/gui/logo.png - Logo for application</li>
 </ul>
+<b>Install:</b>
+<ul>
+  <li>You must install pyqt5 installed</li>
+</ul>
