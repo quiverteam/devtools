@@ -1,5 +1,5 @@
 <h1>Quiver Developer Tools</h1>
-<h2>Mod Create - A tool to create mods with Quiver Engine.</h2>
+<h2>Mod Setup - A tool to create mods with Quiver Engine.</h2>
 <p align="center">
   <img id="mainimage" src="https://github.com/quiverteam/devtools/blob/master/Mod%20Setup/docs/app.png">
 </p>
