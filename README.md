@@ -13,5 +13,5 @@
 </ul>
 <b>Install:</b>
 <ul>
-  <li>You must install pyqt5 installed</li>
+  <li>You must have pyqt5 installed</li>
 </ul>
