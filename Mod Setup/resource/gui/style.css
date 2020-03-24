@@ -1,0 +1,10 @@
+QWidget {
+    background-color: rgba(55, 55, 55, 1);
+}
+
+QLineEdit {
+    color: rgba(235,235,235,1);
+}
+QPushButton {
+    color: rgba(235,235,235,1);
+}
