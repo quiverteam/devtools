@@ -1,7 +1,7 @@
 <h1>Quiver Developer Tools</h1>
 <p>Mod Create - A tool to create mods with Quiver Engine.</p>
 <p align="center">
-  <img id="mainimage" src="https://github.com/TobyMaddix/Quiver-Mod-Setup/blob/master/docs/app.png">
+  <img id="mainimage" src="https://github.com/quiverteam/devtools/blob/master/Mod%20Setup/docs/app.png">
 </p>
 <b>How it works:</b>
 <p>Simply choose where you want to put the base files and hit Create Mod; this tiny tool handles the rest!</p>
